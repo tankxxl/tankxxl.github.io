@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://tankxxl.github.io/2016/06/13/MySQL%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6my-cnf%E8%AF%B4%E6%98%8E/</loc>
+    <lastmod>2016-06-13T09:05:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>MySQL配置文件my.cnf说明</title>
+        <pubTime>2016-06-13T08:57:40.000Z</pubTime>
+        
+        <tag>MySQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="Database" url="http://tankxxl.github.io/categories/Database/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+  <url>
+    <loc>http://tankxxl.github.io/2016/03/15/%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B5%E9%9D%A2/</loc>
+    <lastmod>2016-03-15T07:15:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>第一个页面</title>
+        <pubTime>2016-03-15T07:11:52.000Z</pubTime>
+        
+        <tag>example</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://tankxxl.github.io/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://tankxxl.github.io/2016/03/15/hello-world/</loc>
+    <lastmod>2016-03-15T05:50:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-03-15T05:50:18.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
